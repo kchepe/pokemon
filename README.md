@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## `yarn install`
+
+Install all dependencies.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -44,3 +48,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+- How did you decide on the technical and architectural choices used as part of your solution?
+  \*I had decided this technical and architectural choices because this is the one I am comfortable with and it is easy for me build reusable components and trace errors.
+
+- Are there any improvements you could make to your submission?
+  \*Yes, Filtering data
+- What would you do differently if you were allocated more time?
+  *delete Data
+  *Edit Data
+  \*Add data
